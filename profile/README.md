@@ -41,6 +41,19 @@
 
 ## 💻 Quick Preview
 
+---
+
+
+---
+
+### 📝 Want Help With:
+- Customizing logo/screenshot placements?
+- Hosting image assets properly?
+- Adding Discord, Telegram, or web UI links?
+
+Let me know, and I’ll tweak this further!
+
+
 ```bash
 > yashnova --scan --target=192.168.1.1
 [+] Scanning for open ports...
