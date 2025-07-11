@@ -2,7 +2,7 @@
   <img src="https://github.com/YashGajjarOffical/.github/blob/main/profile/Blue%20Professional%20Gradient%20Technology%20Innovation%20Presentation.gif" autoplay alt="YASHNOVA Logo"/>
 </p>
 
-<h1 align="center">🔐 YASHNOVA — Ethical Hacking, Reimagined</h1>
+<h1 align="center">🔐 Darker Verse — Ethical Hacking, Reimagined</h1>
 
 <p align="center">
   <b>A futuristic hacking toolkit built for education, experimentation & pure fun.</b><br>
