@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/YashGajjarOffical/.github/blob/main/profile/Banner.png" alt="YASHNOVA Logo"/>
+  <img src="https://github.com/YashGajjarOffical/.github/blob/main/profile/Blue%20Professional%20Gradient%20Technology%20Innovation%20Presentation.gif" alt="YASHNOVA Logo"/>
 </p>
 
 <h1 align="center">🔐 YASHNOVA — Ethical Hacking, Reimagined</h1>
