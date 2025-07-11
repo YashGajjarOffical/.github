@@ -17,9 +17,9 @@
 
 ---
 
-## 🚀 What Is YASHNOVA?
+## 🚀 What Is Darker Verse?
 
-> **YASHNOVA** is a collection of **modular, open-source hacking tools** designed for:
+> **Darker Verse** is a collection of **modular, open-source hacking tools** designed for:
 - 🧑‍💻 Learning cybersecurity principles
 - 💥 Experimenting in safe, sandboxed environments
 - 👾 Having fun with terminal aesthetics & tech wizardry
