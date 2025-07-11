@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width="100vw" height="70vh">
   <img src="https://github.com/YashGajjarOffical/.github/blob/main/profile/bck.png" width="100vw" height="70vh" alt="YASHNOVA Logo"/>
 </p>
 
