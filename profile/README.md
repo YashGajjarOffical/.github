@@ -43,9 +43,6 @@
 
 ---
 
-
----
-
 ### 📝 Want Help With:
 - Customizing logo/screenshot placements?
 - Hosting image assets properly?
